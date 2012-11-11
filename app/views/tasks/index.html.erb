@@ -1,0 +1,27 @@
+<%- model_class = Task -%>
+
+
+
+<div class="page-header">
+  <h1><%=t '.title' %></h1>
+</div>
+
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_task_path,
+            :class => 'btn btn-primary' %>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Finish</th>
+      <th>Task Name</th>
+      <th><%=t '.actions', :default => t("helpers.actions") %></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @tasks.each do |task| %>
+      <%= render partial: "task", locals: { task: task } %>
+    <% end %>
+  </tbody>
+</table>
+

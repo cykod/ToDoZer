@@ -1,0 +1,110 @@
+RBenv instructions
+
+rails new todozer
+
+rails g scaffold task name:string
+
+rake db:migrate
+
+talk sass
+
+talk asset pipeline
+
+
+Gemfile
+
+gem "twitter-bootstrap-rails"
+gem "less-rails"
+
+rails g bootstrap:layout application fixed
+
+Edit application.css
+
+*= require  bootstrap_and_overrides
+
+rm app/assets/stylesheets/scaffolds.css.scss
+
+rm index.html
+rails g controller Page index
+
+
+Gemfile
+
+gem "devise"
+
+rails generate devise:install
+
+rails generate devise User
+
+
+rake db:migrate
+
+
+
+
+rails g migration TaskUser
+
+
+
+class TaskUser < ActiveRecord::Migration
+  def up
+    add_column :tasks, :user_id, :integer
+  end
+
+  def down
+    remove_column :tasks, :user_id
+  end
+end
+
+rake db:migrate
+
+
+add has_many, belongs_to
+
+
+
+Update the tasks_controller to user
+current_user.tasks
+
+
+Update the links to the application html
+rake routes
+
+
+
+Update the view for tasks
+- get rid of edit buttono
+- talk about translations
+
+
+
+rails g migration TaskUDone
+
+class TaskDone < ActiveRecord::Migration
+  def up
+    add_column :tasks, :done, :boolean, default: false
+  end
+
+  def down
+    remove_column :tasks, :done
+  end
+end
+
+
+  resources :tasks do
+    put :finish
+    put :unfinish
+  end
+
+
+Tasks controller
+
+@tasks = current_user.tasks.undone_first
+
+Tasks view
+
+
+
+
+
+Extra credit: remote
