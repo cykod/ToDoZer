@@ -3,16 +3,26 @@ layout: default
 title: ToDoZer
 ---
 
-# Boston Startup School, Introduction to Rails
+# Introduction to Rails
 
 ### Today:
 
-1. [Introduction to Rails](intro-to-ruby.html)
-2. [creating a Rails app](creating-rails-app.html)
+1. [Introduction to Ruby](intro-to-ruby.html)
+2. [Creating a Rails app](creating-rails-app.html)
+3. [Crafting a home page](crafting-a-homepage.html)
+4. [Github Break](github-break.html)
+5. [Scaffolding](scaffolding.html)
+6. [Twitter Boostrap](bootstrap.html)
+7. [Users](users.html)
+8. [Menu](menu.html)
 
 
+### Online Resources
 
-
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
-
-    $ rails new ToDoZer
+[Ruby Quickref](http://www.zenspider.com/Languages/Ruby/QuickRef.html)  
+Google - searching "ruby" and whatever you're looking for usually leads to good stuff.  
+[Ruby Koans](http://rubykoans.com/) - a great set of lessons in an interactive form.  
+[Test First Training](http://testfirst.org) - learn Ruby, one test at a time.  
+[Learn to Program by Chris Pine](http://pine.fm/LearnToProgram) - also available as [a book](http://pragprog.com/book/ltp2/learn-to-program).  
+[The Pickaxe](http://pragprog.com/book/ruby3/programming-ruby-1-9) - The definitive ruby reference (and has a great tutorial too).  
+[Why's (poignant) Guide to Ruby](http://www.scribd.com/doc/8545174/whys-Poignant-Guide-to-Ruby) - the (crazy) guide to ruby... Try it, you might like it.  

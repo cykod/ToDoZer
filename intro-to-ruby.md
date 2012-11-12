@@ -37,7 +37,10 @@ title: ToDoZer
 
     and hitting enter. You are now back at the command prompt.
 
-    It you don't have ruby installed and functioning, please let me know.
+    **ONLY** If you don't have ruby installed and functioning, you'll need to install rvm:
+
+         \curl -L https://get.rvm.io | bash -s stable --rails
+
 
 # Play with the Ruby Language
 
@@ -157,6 +160,14 @@ Type this in the terminal
 
 This prints `YAY!` if the value stored in `foo` is greater than 1. Since the code only runs when certain
 conditions are met if is called a **conditional**.
+
+Section complete: \[_\] Finished
+
+### Extra Material
+
+1. [Ruby Arrays](ruby-arrays.html)
+2. [Ruby Classes](ruby-classes.html)
+
 
 
 Next [Creating a Rails App](creating-rails-app.html)
