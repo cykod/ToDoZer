@@ -15,6 +15,7 @@ title: ToDoZer
 6. [Twitter Boostrap](bootstrap.html)
 7. [Users](users.html)
 8. [Menu](menu.html)
+9. [Marking tasks as done](done.html)
 
 
 ### Online Resources
