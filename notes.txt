@@ -1,4 +1,4 @@
-RBenv instructions
+RVM instructions
 
 rails new todozer
 
