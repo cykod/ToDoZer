@@ -10,11 +10,9 @@ talk sass
 
 talk asset pipeline
 
-
 Gemfile
 
 gem "twitter-bootstrap-rails"
-gem "less-rails"
 
 rails g bootstrap:layout application fixed
 
