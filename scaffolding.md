@@ -97,8 +97,9 @@ At the core, most database driven web sites are the same. They need to store rec
 
 You can see those tasks in `app/controllers/tasks_controller.rb` that was generated for you.
 
-
 Section complete: \[_\] Finished
+
+Read More: [Rails Guide Scaffolding](http://guides.rubyonrails.org/getting_started.html#getting-up-and-running-quickly-with-scaffolding)
 
 Next [Make 'er pretty](bootstrap.html)
 

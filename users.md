@@ -106,5 +106,11 @@ And wait for the instructor to talk about what we can do from there. Also, we wa
 
 Section complete: \[_\] Finished
 
+Learn More: 
+* [Action Controller](http://guides.rubyonrails.org/action_controller_overview.html)
+* [Active Record Validations](http://guides.rubyonrails.org/active_record_validations_callbacks.html) 
+* [Active Record Associations](http://guides.rubyonrails.org/association_basics.html) 
+* [Active Record Querying](http://guides.rubyonrails.org/association_basics.html)
+
 Next [Views: Menu Links and ERB](menu.html)
 

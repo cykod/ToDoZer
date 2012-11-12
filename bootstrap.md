@@ -43,7 +43,7 @@ And visit your app again.
 
 Section complete: \[_\] Finished
 
-Next [Menu Links and ERB](users.html)
+Next [Adding Users](users.html)
 
 
     

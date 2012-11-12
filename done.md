@@ -73,5 +73,7 @@ Lastly, add a new column in to `add/views/tasks/index.html` that reads:
 
 Section complete: \[_\] Finished
 
+Learn More: [Routing](http://guides.rubyonrails.org/routing.html)
+
 Extra credit: Ordering, Scopes, Ajax, Translations
 

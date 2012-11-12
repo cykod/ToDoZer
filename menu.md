@@ -73,5 +73,7 @@ The tasks list is still a little ugly - let's get rid of the ID and Created at c
 
 Section complete: \[_\] Finished
 
+Learn More: [Rails Guide on Views](http://guides.rubyonrails.org/layouts_and_rendering.html)
+
 Next [Marking Tasks as done](done.html)
 

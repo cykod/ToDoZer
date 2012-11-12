@@ -83,4 +83,6 @@ There is a lot more that `rails new` created. Probably enough to fill a book, so
 
 Section complete: \[_\] Finished
 
+More Reading: [Rails Guide in Creating a new Project](http://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project)
+
 Next [Crafting a home page](crafting-a-homepage.html)
