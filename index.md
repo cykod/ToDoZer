@@ -18,7 +18,7 @@ title: ToDoZer
 9. [Marking tasks as done](done.html)
 
 
-### Online Resources
+### Ruby Resources
 
 [Ruby Quickref](http://www.zenspider.com/Languages/Ruby/QuickRef.html)  
 Google - searching "ruby" and whatever you're looking for usually leads to good stuff.  
@@ -27,3 +27,10 @@ Google - searching "ruby" and whatever you're looking for usually leads to good 
 [Learn to Program by Chris Pine](http://pine.fm/LearnToProgram) - also available as [a book](http://pragprog.com/book/ltp2/learn-to-program).  
 [The Pickaxe](http://pragprog.com/book/ruby3/programming-ruby-1-9) - The definitive ruby reference (and has a great tutorial too).  
 [Why's (poignant) Guide to Ruby](http://www.scribd.com/doc/8545174/whys-Poignant-Guide-to-Ruby) - the (crazy) guide to ruby... Try it, you might like it.  
+
+
+### Rails Resources
+
+[Rails Guides](http://guides.rubyonrails.org/)
+[Rails Casts](http://railscasts.com/)
+[Rails for Zombies](http://www.codeschool.com/courses/rails-for-zombies-redux)
