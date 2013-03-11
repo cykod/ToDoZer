@@ -59,7 +59,7 @@ Now add the following to methods to the bottom of `app/controllers/tasks_control
         end
       end
 
-Lastly, add a new column in to `add/views/tasks/index.html` that reads:
+Lastly, add a new column in to `app/views/tasks/index.html` that reads:
 
       <td>
         <% if task.done? %>
