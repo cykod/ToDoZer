@@ -49,12 +49,8 @@ First create a new migration:
 Next edit the new file in db/migrate/, and modify the body of the class to read:
 
     class TaskUser < ActiveRecord::Migration
-      def up
+      def change
         add_column :tasks, :user_id, :integer
-      end
-
-      def down
-        remove_column :tasks, :user_id
       end
     end
 
