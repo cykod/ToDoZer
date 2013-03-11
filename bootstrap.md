@@ -12,6 +12,8 @@ We could download the stylesheet ourselves, but there's a Gem that does it for u
 
 Open up your `Gemfile` (in the top level directory) and add the following line below `gem 'jquery-rails'`:
 
+    gem "therubyracer"
+    gem "less-rails"
     gem 'twitter-bootstrap-rails'
 
 Now save, and run from the console:
