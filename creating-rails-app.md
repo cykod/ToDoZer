@@ -11,7 +11,7 @@ Run
 
 It should return
 
-    rails 3.2.8
+    rails 3.2.12
 
 **Only** if not, run:
 
@@ -80,8 +80,6 @@ You can see that `rails new` created a lot directories and files. The ones we wa
 `public/` The only folder seen to the world as-is. This is where your static files go. You can also put stylesheets, javascript and images in this folder.
 
 There is a lot more that `rails new` created. Probably enough to fill a book, so we're going to ignore them for now.
-
-Section complete: \[_\] Finished
 
 More Reading: [Rails Guide in Creating a new Project](http://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project)
 

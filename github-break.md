@@ -15,6 +15,4 @@ Next, let's create a local Repo:
 
 Now follow the instrutions titled **Push an existing repository from the command line** at the bottom of the page.
 
-Section complete: \[_\] Finished
-
 Next [Scaffolding](scaffolding.html)

@@ -6,6 +6,8 @@ title: Scaffolding
 
 Rails aims to speed up development with code generation for reptitive tasks. One way it does this is with a scaffolding generator that creates a simple CRUD for a resources. 
 
+**Note: in real projects we generally don't use scaffolding, but it's a nice helper on as you are getting going**
+
 Next, you're going to create a Task resource using scaffolding:
 
     rails g scaffold task name:string
@@ -96,8 +98,6 @@ At the core, most database driven web sites are the same. They need to store rec
 * DELETE http://localhost:3000/tasks/1 - delete the first task
 
 You can see those tasks in `app/controllers/tasks_controller.rb` that was generated for you.
-
-Section complete: \[_\] Finished
 
 Read More: [Rails Guide Scaffolding](http://guides.rubyonrails.org/getting_started.html#getting-up-and-running-quickly-with-scaffolding)
 

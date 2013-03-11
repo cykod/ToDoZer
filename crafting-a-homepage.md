@@ -34,6 +34,4 @@ Take a second to read the existing comments in the file as well.
 
 Now visit your app's home page at `http://localhost:3000` and you should see your index page. Go to `/about` to see the about page.
 
-Section complete: \[_\] Finished
-
 Next [Github Break](github-break.html)

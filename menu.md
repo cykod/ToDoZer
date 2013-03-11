@@ -71,8 +71,6 @@ You should now see login and logout messages.
 
 The tasks list is still a little ugly - let's get rid of the ID and Created at columns. Open up `app/views/tasks/index.html` and get rid of those columns in the HTML.
 
-Section complete: \[_\] Finished
-
 Learn More: [Rails Guide on Views](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
 Next [Marking Tasks as done](done.html)

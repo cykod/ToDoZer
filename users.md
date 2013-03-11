@@ -104,8 +104,6 @@ Rails has a special irb console we can use to play with our data, load it up wit
 
 And wait for the instructor to talk about what we can do from there. Also, we want to talk about modules.
 
-Section complete: \[_\] Finished
-
 Learn More: 
 * [Action Controller](http://guides.rubyonrails.org/action_controller_overview.html)
 * [Active Record Validations](http://guides.rubyonrails.org/active_record_validations_callbacks.html) 

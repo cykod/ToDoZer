@@ -71,8 +71,6 @@ Lastly, add a new column in to `add/views/tasks/index.html` that reads:
 
 (Don't forget to update the table headers as well)
 
-Section complete: \[_\] Finished
-
 Learn More: [Routing](http://guides.rubyonrails.org/routing.html)
 
 Extra credit: Ordering, Scopes, Ajax, Translations

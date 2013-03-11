@@ -40,9 +40,6 @@ We could go in and theme the scaffold, but luckily the Gem provides a generator 
 
 And visit your app again.
     
-
-Section complete: \[_\] Finished
-
 Next [Adding Users](users.html)
 
 
