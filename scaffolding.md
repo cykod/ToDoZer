@@ -75,7 +75,7 @@ You can access routes using the name of on the left followed by `_path`. For exa
 
 # CRUD and REST
 
-Wait for the bearded guy to talk about CRUD and REST - but go ahead an read the stuff below while you're waiting:
+Wait for the bearded guy to talk about CRUD and REST - but go ahead and read the stuff below while you're waiting:
 
 At the core, most database driven web sites are the same. They need to store records and provide a way to do the following:
 
@@ -84,7 +84,7 @@ At the core, most database driven web sites are the same. They need to store rec
 * **U**pdate existing records
 * **D**estroy or delete records
 
-### REST  (Representational State Transfer meanas)
+### REST  (Representational State Transfer)
 * Application state and functionality are abstracted into resources
 * Each resource may be referenced with a global identifier (URI over HTTP)
 * Resources share a uniform interfaces

@@ -4,6 +4,8 @@ title: Bootstrap
 ---
 # Bootstrap
 
+**We're going to use a lot of generators to do stuff - like scaffolding, we don't do as much of this in the real world**
+
 Instead of worrying about theming ourselves, let's use [Twitter Bootstrap](http://twitter.github.com/bootstrap/) to get some base styles in for us.
 
 We could download the stylesheet ourselves, but there's a Gem that does it for us: [Twitter Bootstrap Rails](https://github.com/seyhunak/twitter-bootstrap-rails)
