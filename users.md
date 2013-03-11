@@ -56,15 +56,15 @@ Next edit the new file in db/migrate/, and modify the body of the class to read:
 
 Now run the migration:
 
-   rake db:migrate
+    rake db:migrate
 
 Next, open up `app/models/user.rb` and add the line (inside the class body):
 
-   has_many :tasks
+    has_many :tasks
 
 Next, open up `app/models/task.rb` and add the line:
 
-   belongs_to :user
+    belongs_to :user
 
 Finally, open up `app/controllers/tasks_controller.rb` and change anywhere you see `Task.` to read `current_user.tasks.`.
 
